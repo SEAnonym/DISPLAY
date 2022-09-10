@@ -25,3 +25,11 @@ nav {
   width: 50%;
   height: 100%;
 }
+.profile {
+  justify-content: center;
+  align-items: center;
+}
+.my-photo {
+  width: 60%;
+  height: 100%;
+}

@@ -6,3 +6,6 @@ body {
 .flexbox {
   display: flex;
 }
+.grid {
+  display: grid;
+}
